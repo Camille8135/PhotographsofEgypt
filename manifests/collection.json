@@ -1,0 +1,13 @@
+{
+  "id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Camille8135/PhotographsofEgypt project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json",
+    "label" : "Photographs on Ancient Egypt\n"
+  } ]
+}
