@@ -1,0 +1,231 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Photographs on Ancient Egypt\n",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Monuments and symbols in ancient Egypt",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Personal photographs",
+  "sequences" : [ {
+    "@id" : "http://9869055d-09c6-4574-b113-6a2aae0c9755",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d2d440f4-8cfc-471d-a590-04ee2518c7d8",
+      "@type" : "sc:Canvas",
+      "label" : "Ceiling of Dendera Temple complex before restoration",
+      "height" : 2604,
+      "width" : 4624,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5399c11a-eeb5-45ae-a0e9-8f88365005f3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20220819-143110/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20220819-143110",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2604,
+          "width" : 4624
+        },
+        "on" : "http://d2d440f4-8cfc-471d-a590-04ee2518c7d8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://35749ecf-66b4-42d5-88da-d0e6a136ec38",
+      "@type" : "sc:Canvas",
+      "label" : "Ceiling of Dendera Temple complex after restoration",
+      "height" : 3456,
+      "width" : 4608,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bdcc680d-09f7-467d-9d66-115fa8756c7e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20220819-140732/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20220819-140732",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3456,
+          "width" : 4608
+        },
+        "on" : "http://35749ecf-66b4-42d5-88da-d0e6a136ec38"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://973bcf65-0e33-4268-9a7a-a2f21801a931",
+      "@type" : "sc:Canvas",
+      "label" : "Abu Simbel Temple (outside)",
+      "height" : 2736,
+      "width" : 3648,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a3826b45-77be-4105-a6c4-a6b095af1183",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/p-1070718/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/p-1070718",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2736,
+          "width" : 3648
+        },
+        "on" : "http://973bcf65-0e33-4268-9a7a-a2f21801a931"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3e246836-67da-4011-b67d-8393fc97bffd",
+      "@type" : "sc:Canvas",
+      "label" : "Ramesses II fighting the Hittites ",
+      "height" : 1836,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://949fdd9c-4e7e-4643-a888-0776553848ff",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20220817-090852/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20220817-090852",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1836,
+          "width" : 3264
+        },
+        "on" : "http://3e246836-67da-4011-b67d-8393fc97bffd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1d590cb9-f28b-4b11-92cf-ae6e2d66a2ef",
+      "@type" : "sc:Canvas",
+      "label" : "The nile and the silt principle ",
+      "height" : 3456,
+      "width" : 4608,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://65e3b689-d569-4330-bd56-caca3223359d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20220814-055217/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20220814-055217",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3456,
+          "width" : 4608
+        },
+        "on" : "http://1d590cb9-f28b-4b11-92cf-ae6e2d66a2ef"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8887b248-f601-471c-aa2b-716a06d52990",
+      "@type" : "sc:Canvas",
+      "label" : "The jackal god Anubis finishing a mummification",
+      "height" : 3456,
+      "width" : 4608,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://37bd9551-6904-4afe-82c1-aea8a265029a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20220814-120308/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20220814-120308",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3456,
+          "width" : 4608
+        },
+        "on" : "http://8887b248-f601-471c-aa2b-716a06d52990"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8f21ed4d-9630-4c61-a9be-8706f6e2a475",
+      "@type" : "sc:Canvas",
+      "label" : "Detail in a temple of a Hippopotamus",
+      "height" : 2604,
+      "width" : 4624,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dc486cd4-88d6-4940-ae8b-e19c8e738944",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20220815-083645/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20220815-083645",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2604,
+          "width" : 4624
+        },
+        "on" : "http://8f21ed4d-9630-4c61-a9be-8706f6e2a475"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://21c19ab2-e6d4-461f-a5fa-cbd16ba76b4c",
+      "@type" : "sc:Canvas",
+      "label" : "Daily life",
+      "height" : 3456,
+      "width" : 4608,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a4157753-8c1f-4b91-b14b-9cea861d19d3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20220814-120456/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20220814-120456",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3456,
+          "width" : 4608
+        },
+        "on" : "http://21c19ab2-e6d4-461f-a5fa-cbd16ba76b4c"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
