@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4624,
+    "id" : "https://Camille8135.github.io/PhotographsofEgypt/images/20220815_083645/canvas/",
+    "label" : {
+      "none" : [ "20220815_083645" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Camille8135.github.io/PhotographsofEgypt/images/20220815_083645/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Camille8135.github.io/PhotographsofEgypt/images/20220815_083645/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 145,
+              "height" : 82
+            }, {
+              "width" : 289,
+              "height" : 163
+            }, {
+              "width" : 578,
+              "height" : 326
+            }, {
+              "width" : 1156,
+              "height" : 651
+            }, {
+              "width" : 2312,
+              "height" : 1302
+            }, {
+              "width" : 4624,
+              "height" : 2604
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4624,
+            "@id" : "https://Camille8135.github.io/PhotographsofEgypt/images/20220815_083645",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2604
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4624,
+          "id" : "https://Camille8135.github.io/PhotographsofEgypt/images/20220815_083645/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2604
+        },
+        "target" : "https://Camille8135.github.io/PhotographsofEgypt/images/20220815_083645/canvas/"
+      } ]
+    } ],
+    "height" : 2604
+  }, {
     "width" : 4608,
     "id" : "https://Camille8135.github.io/PhotographsofEgypt/images/20220814_055217/canvas/",
     "label" : {
