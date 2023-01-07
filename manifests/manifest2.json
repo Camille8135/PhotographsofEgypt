@@ -3,6 +3,11 @@
   "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Photographs on Ancient Egypt\n",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/116722773576143671868/151b1259ae1d585bd14ba09d467dd1fd/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Monuments and symbols in ancient Egypt",
@@ -42,6 +47,11 @@
         },
         "on" : "http://d2d440f4-8cfc-471d-a590-04ee2518c7d8"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://camille8135.github.io/PhotographsofEgypt/annotations/4abf16fb5d730aa7327be435cd514772.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://35749ecf-66b4-42d5-88da-d0e6a136ec38",
@@ -67,6 +77,11 @@
           "width" : 4608
         },
         "on" : "http://35749ecf-66b4-42d5-88da-d0e6a136ec38"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://camille8135.github.io/PhotographsofEgypt/annotations/a09aa604f1c6a83acf6f1351d8ca591b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -94,6 +109,11 @@
         },
         "on" : "http://973bcf65-0e33-4268-9a7a-a2f21801a931"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://camille8135.github.io/PhotographsofEgypt/annotations/a09aa604f1c6a83acf6f1351d8ca591b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://3e246836-67da-4011-b67d-8393fc97bffd",
@@ -119,6 +139,11 @@
           "width" : 3264
         },
         "on" : "http://3e246836-67da-4011-b67d-8393fc97bffd"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://camille8135.github.io/PhotographsofEgypt/annotations/e982e12e7c1a962c64e1666d49b07aa6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -146,6 +171,11 @@
         },
         "on" : "http://1d590cb9-f28b-4b11-92cf-ae6e2d66a2ef"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://camille8135.github.io/PhotographsofEgypt/annotations/d4432ce768f21ab3c15d09215b6d2557.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://8887b248-f601-471c-aa2b-716a06d52990",
@@ -171,6 +201,11 @@
           "width" : 4608
         },
         "on" : "http://8887b248-f601-471c-aa2b-716a06d52990"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://camille8135.github.io/PhotographsofEgypt/annotations/8a2470dc1ee16f1cad986cf54784eb52.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -198,6 +233,11 @@
         },
         "on" : "http://8f21ed4d-9630-4c61-a9be-8706f6e2a475"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://camille8135.github.io/PhotographsofEgypt/annotations/ccc2f9fe4ca23a412be6fa4682097ba0.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://21c19ab2-e6d4-461f-a5fa-cbd16ba76b4c",
@@ -223,6 +263,11 @@
           "width" : 4608
         },
         "on" : "http://21c19ab2-e6d4-461f-a5fa-cbd16ba76b4c"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://camille8135.github.io/PhotographsofEgypt/annotations/ad2becc09d9b442e2da5a7b96e8e9a06.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
