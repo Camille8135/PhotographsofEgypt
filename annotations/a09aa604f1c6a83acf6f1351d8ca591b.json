@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-family: 'Times New Roman', serif;\">The Supreme Council of Antiquities began the project of restoration and maintenance of the temple in 2005 before it was interrupted in 2011, and resumed in 2017. Several detailed experimental studies using the best modern methods and techniques have been set up.&nbsp;&nbsp;<span style=\"font-family: 'Times New Roman', serif;\">In March 2021, the second phase of the restoration is complete, including the cleaning of the large pillar room and the restoration of the original colours and clarity of the painted scenes on the walls and ceilings.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-family: 'Times New Roman', serif;\">The Supreme Council of Antiquities began the project of restoration and maintenance of the temple in 2005 before it was interrupted in 2011, and resumed in 2017. Several detailed experimental studies using the best modern methods and techniques have been set up.</span><span>&nbsp;&nbsp;</span><span style=\"font-family: 'Times New Roman', serif;\">In March 2021, the second phase of the restoration is complete, including the cleaning of the large pillar room and the restoration of the original colours and clarity of the painted scenes on the walls and ceilings.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116722773576143671868",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-07T10:24:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673087065654",
+    "dcterms:modified" : "2023-01-07T10:24:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=11,498,4524,1790"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M11.39535,2288.60465h2262.13488v0h2262.13488v-895.14884v-895.14884h-2262.13488h-2262.13488v895.14884z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_558cff78-f226-4ed2-aa3f-87b5779a18d6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://35749ecf-66b4-42d5-88da-d0e6a136ec38"
+    } ]
+  } ],
+  "@id" : "https://Camille8135.github.io/PhotographsofEgypt/annotations/a09aa604f1c6a83acf6f1351d8ca591b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
