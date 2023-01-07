@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">Wigs, common to both sexes, are the headgear of the upper classes. Made of real hair and horsehair, they have other incorporated ornamental elements. This Egyptian woman is for example represented here with a cone of butter on the wig. \n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">These fragrant cones, also known as wax cones, are likely made of a mixture of oils, resins and fats, and contain myrrh. The slow melting of the cones under the effect of body heat allowed to diffuse the perfume.&nbsp;\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">Wigs, common to both sexes, are the headgear of the upper classes. Made of real hair and horsehair, they have other incorporated ornamental elements. This Egyptian woman is for example represented here with a cone of butter on the wig. </span></p>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">These fragrant cones, also known as wax cones, are likely made of a mixture of oils, resins and fats, and contain myrrh. The slow melting of the cones under the effect of body heat allowed to diffuse the perfume.&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: justify;\">&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116722773576143671868",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T21:42:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673041331325",
+    "dcterms:modified" : "2023-01-06T21:45:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=817,1993,80,121"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M857.30233,2113.78605c0,-26.7907 13.39535,-53.5814 40.18605,-80.37208c0,-22.19414 -17.99191,-40.18605 -40.18605,-40.18605c-22.19414,0 -40.18605,17.99191 -40.18605,40.18605c26.7907,26.7907 40.18605,53.5814 40.18605,80.37208z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_d57fabdd-8944-4b25-ae8a-7c3ef9b2ca7d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"64.29767\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://21c19ab2-e6d4-461f-a5fa-cbd16ba76b4c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">The men wear a chendjit, sling wrapped around the kidneys and held at the waist by a belt. The women&rsquo;s costume is draped, giving the impression of sometimes constituting different clothes. It is a haik of muslin. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">The men wear a <em>chendjit</em>, sling wrapped around the kidneys and held at the waist by a belt. The women&rsquo;s costume is draped, giving the impression of sometimes constituting different clothes. It is a <em>haik</em> of muslin. </span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116722773576143671868",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T21:44:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673041460128",
+    "dcterms:modified" : "2023-01-06T21:44:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2425,1503,80,121"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2464.74419,1623.51628c0,-26.7907 13.39535,-53.5814 40.18605,-80.37209c0,-22.19414 -17.99191,-40.18605 -40.18605,-40.18605c-22.19414,0 -40.18605,17.99191 -40.18605,40.18605c26.7907,26.7907 40.18605,53.5814 40.18605,80.37209z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_402927d2-e3f4-4c43-b93a-2945a73f75bf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://21c19ab2-e6d4-461f-a5fa-cbd16ba76b4c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">It was very rare to see an Egyptian without eye shadow. It consisted of red clays, copper or iron oxides, ochre or blackberry juice&hellip; They applied black eye shadow, kohl, to the entire eye contour to protect against sunlight, eye infections and to keep mosquitoes away.\n<a title=\"Khol exhibition\" href=\"https://www.gralon.net/articles/vignettes/thumb-le-khol---une-exposition-au-musee-international-de-la-parfumerie-a-grasse-12577.jpg\" target=\"_blank\" rel=\"noopener\">https://www.gralon.net/articles/vignettes/thumb-le-khol---une-exposition-au-musee-international-de-la-parfumerie-a-grasse-12577.jpg",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">It was very rare to see an Egyptian without eye shadow. It consisted of red clays, copper or iron oxides, ochre or blackberry juice&hellip; They applied black eye shadow, kohl, to the entire eye contour to protect against sunlight, eye infections and to keep mosquitoes away.</span></p>\n<p><a title=\"Khol exhibition\" href=\"https://www.gralon.net/articles/vignettes/thumb-le-khol---une-exposition-au-musee-international-de-la-parfumerie-a-grasse-12577.jpg\" target=\"_blank\" rel=\"noopener\">https://www.gralon.net/articles/vignettes/thumb-le-khol---une-exposition-au-musee-international-de-la-parfumerie-a-grasse-12577.jpg</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116722773576143671868",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T21:43:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673041430601",
+    "dcterms:modified" : "2023-01-06T21:44:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=930,1302,80,121"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M969.82326,1422.58605c0,-26.7907 13.39535,-53.5814 40.18605,-80.37208c0,-22.19414 -17.99191,-40.18605 -40.18605,-40.18605c-22.19414,0 -40.18605,17.99191 -40.18605,40.18605c26.7907,26.7907 40.18605,53.5814 40.18605,80.37208z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_b14c86af-77b3-46c5-93f0-413c997d023b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"64.29767\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://21c19ab2-e6d4-461f-a5fa-cbd16ba76b4c"
+    } ]
+  } ],
+  "@id" : "https://Camille8135.github.io/PhotographsofEgypt/annotations/ad2becc09d9b442e2da5a7b96e8e9a06.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
