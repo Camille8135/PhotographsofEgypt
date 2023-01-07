@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Camille8135.github.io/PhotographsofEgypt/annotations/4abf16fb5d730aa7327be435cd514772.json" ],
+  "@id" : "https://Camille8135.github.io/PhotographsofEgypt/annotations/collection.json",
+  "label" : "All annotations loaded in Camille8135/PhotographsofEgypt project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
