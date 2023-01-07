@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">Destroying or eating part of the crops, the hippopotamus was considered in Egypt most often as a manifestation of negative forces. The hippopotamus was therefore dedicated to Seth, the god who murdered Osiris, his own brother. This description, interpreted symbolically, would target all human impulses and vices.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">Destroying or eating part of the crops, the hippopotamus was considered in Egypt most often as a manifestation of negative forces. The hippopotamus was therefore dedicated to Seth, the god who murdered Osiris, his own brother. This description, interpreted symbolically, would target all human impulses and vices.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116722773576143671868",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T21:46:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673041593253",
+    "dcterms:modified" : "2023-01-06T21:46:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1439,397,2110,1744"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1438.96744,396.70698h1054.84186v0h1054.84186v872.03256v872.03256h-1054.84186h-1054.84186v-872.03256z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_08d86fb6-2d2d-4ed7-9fc8-ce13f37ac14a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8f21ed4d-9630-4c61-a9be-8706f6e2a475"
+    } ]
+  } ],
+  "@id" : "https://Camille8135.github.io/PhotographsofEgypt/annotations/ccc2f9fe4ca23a412be6fa4682097ba0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
