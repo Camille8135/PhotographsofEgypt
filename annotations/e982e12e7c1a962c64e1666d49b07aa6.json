@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A Hittite",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A Hittite</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116722773576143671868",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T21:33:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673040789060",
+    "dcterms:modified" : "2023-01-06T21:33:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=287,705,43,64"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M308.37209,768.55814c0,-14.23256 7.11628,-28.46512 21.34884,-42.69767c0,-11.79064 -9.5582,-21.34884 -21.34884,-21.34884c-11.79064,0 -21.34884,9.5582 -21.34884,21.34884c14.23256,14.23256 21.34884,28.46512 21.34884,42.69767z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_54217e49-a91e-4c99-b160-9093341a723c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3e246836-67da-4011-b67d-8393fc97bffd"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ramesses II on his chariot&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ramesses II on his chariot&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116722773576143671868",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T21:32:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673040751052",
+    "dcterms:modified" : "2023-01-06T21:32:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1346,376,43,64"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1367.27442,439.78605c0,-14.23256 7.11628,-28.46512 21.34884,-42.69767c0,-11.79064 -9.5582,-21.34884 -21.34884,-21.34884c-11.79064,0 -21.34884,9.5582 -21.34884,21.34884c14.23256,14.23256 21.34884,28.46512 21.34884,42.69767z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_b5de03f8-2ddb-4109-9340-dd32700a935e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3e246836-67da-4011-b67d-8393fc97bffd"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">We are in Qadesh, in 1274 B.C. One of the most important events in the history of the ancient Middle East is Ramses II winning against the Hittites. The Battle of Qadesh is the first battle documented by ancient sources, texts and images engraved on the walls of Egyptian temples on the order of Ramses II. It is a real research topic on propaganda and royal ideology. \n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">There are three sources of information about this legendary battle: \n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">- The Pentaur Poem is an epic account of the battle that Ramses II had the Pentaur scribe write after the fight. It is a long text, of which eight copies remain in different temples. \n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">- The Bulletin is a more concise text with seven copies in bas-relief, alongside those of the Poem. It serves as a commentary on the representations on bas-reliefs.\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">- These bas-reliefs presented here are the third source of this fight, an extremely precious source that tells the episode of Ramses defying his opponents on his tank, and the defeat of the Hittite army. These engravings provide a better understanding of organization, weaponry and combat techniques.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">We are in Qadesh, in 1274 B.C. One of the most important events in the history of the ancient Middle East is Ramses II winning against the Hittites. The Battle of Qadesh is the first battle documented by ancient sources, texts and images engraved on the walls of Egyptian temples on the order of Ramses II. It is a real research topic on propaganda and royal ideology. </span></p>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">There are three sources of information about this legendary battle: </span></p>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">- The Pentaur Poem is an epic account of the battle that Ramses II had the Pentaur scribe write after the fight. It is a long text, of which eight copies remain in different temples. </span></p>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">- The Bulletin is a more concise text with seven copies in bas-relief, alongside those of the Poem. It serves as a commentary on the representations on bas-reliefs.</span></p>\n<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\" style=\"font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;\">- These bas-reliefs presented here are the third source of this fight, an extremely precious source that tells the episode of Ramses defying his opponents on his tank, and the defeat of the Hittite army. These engravings provide a better understanding of organization, weaponry and combat techniques.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116722773576143671868",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T21:34:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673040856416",
+    "dcterms:modified" : "2023-01-06T21:34:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Camille8135.github.io/PhotographsofEgypt/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1579,374,587,553"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1578.76279,373.73953h293.47907v0h293.47907v276.4v276.4h-293.47907h-293.47907v-276.4z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e0a6ce1c-66cf-4f64-9fae-920a52c41f27\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3e246836-67da-4011-b67d-8393fc97bffd"
+    } ]
+  } ],
+  "@id" : "https://Camille8135.github.io/PhotographsofEgypt/annotations/e982e12e7c1a962c64e1666d49b07aa6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
