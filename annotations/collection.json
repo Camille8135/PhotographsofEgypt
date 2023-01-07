@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Camille8135.github.io/PhotographsofEgypt/annotations/4abf16fb5d730aa7327be435cd514772.json", "https://Camille8135.github.io/PhotographsofEgypt/annotations/8a2470dc1ee16f1cad986cf54784eb52.json" ],
+  "otherContent" : [ "https://Camille8135.github.io/PhotographsofEgypt/annotations/4abf16fb5d730aa7327be435cd514772.json", "https://Camille8135.github.io/PhotographsofEgypt/annotations/8a2470dc1ee16f1cad986cf54784eb52.json", "https://Camille8135.github.io/PhotographsofEgypt/annotations/a09aa604f1c6a83acf6f1351d8ca591b.json" ],
   "@id" : "https://Camille8135.github.io/PhotographsofEgypt/annotations/collection.json",
   "label" : "All annotations loaded in Camille8135/PhotographsofEgypt project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
